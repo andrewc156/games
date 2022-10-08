@@ -32,3 +32,4 @@ HIGH = open("HIGH SCORE.txt", "w")
 HIGH.write(highscore)
 HIGH.close()
 print(f'Your score is: {points}\nHIGH SCORE: {highscore}')
+#MADE BY - KHUSHANK - @KhushankVerma
